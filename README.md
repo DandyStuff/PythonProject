@@ -74,39 +74,33 @@ This section should list any major frameworks that you built your project using.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This package assumes using Python 3.x
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-Before you continue, ensure you have met the following requirements:
-
-* You have already install Visuall Studio C++
-* You have installed the latest version of OpenCV, Cmake, Dlib and Numpy(Numpy and OpenCV have to share the same version).
-* Linux, Mac OS or Windows are all currently supported.
-
-The easiest way to install it is using either pip or conda:
-
-| **Using pip**                | **Using conda**                            |
-|------------------------------|--------------------------------------------|
-| `pip install ...` | `conda install -c ...` |
-|                              |                                            |
-
+This is an example of how to list things you need to use the software and how to install them.
+* npm
 ```sh
-pip install opencv-python
-```
-```sh
-pip install cmake
-```
-```sh
-pip install dlib
+npm install npm@latest -g
 ```
 
 ### Installation
 
-####Get the face Comparision With Emoji source code
+1. Get a free API Key at [https://example.com](https://example.com)
+2. Clone the repo
 ```sh
-git clone https://github.com/hauchieu/PythonProject.git
+git clone https://github.com/your_username_/Project-Name.git
 ```
+3. Install NPM packages
+```sh
+npm install
+```
+4. Enter your API in `config.js`
+```JS
+const API_KEY = 'ENTER YOUR API';
+```
+
 
 
 <!-- USAGE EXAMPLES -->
@@ -148,9 +142,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Quân - quan.pham190208@vnuk.edu.vn
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/hauchieu/PythonProject]
 
 
 
